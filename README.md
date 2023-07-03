@@ -1,6 +1,6 @@
 # Weighted Balanced Accuracy
 
-This repository is for the paper titled "A Skew-Sensitive Evaluation Framework for Imbalanced Data Classification".
+This repository is for the paper titled "A Skew-Sensitive Evaluation Framework for Imbalanced Data Classification", published at DMLR'2023.
 
 ## Overview
 
