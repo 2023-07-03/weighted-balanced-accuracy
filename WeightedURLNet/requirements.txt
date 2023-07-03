@@ -1,0 +1,4 @@
+tensorflow==1.13.1
+tflearn==0.3.2
+numpy==1.14
+tqdm
