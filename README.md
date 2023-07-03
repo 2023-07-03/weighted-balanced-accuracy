@@ -1,10 +1,10 @@
 # Weighted Balanced Accuracy
 
-This repository contains the data and code associated with the paper titled "A Skew-Sensitive Evaluation Framework for Imbalanced Data Classification".
+This repository is for the paper titled "A Skew-Sensitive Evaluation Framework for Imbalanced Data Classification".
 
 ## Overview
 
-This repository contains the code and data utilized in three experiments discussed in the paper: *Learned Log Parsing*, *Sentiment Analysis*, and *URL Classification*. Each subfolder contains detailed README guidelines specific to its corresponding experiment."
+This repository contains the code and data utilized in three experiments discussed in the paper: *Learned Log Parsing*, *Sentiment Analysis*, and *URL Classification*. Each subfolder contains detailed README guidelines specific to its corresponding experiment.
 
 ## Paper Citation
 
